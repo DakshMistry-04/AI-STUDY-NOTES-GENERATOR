@@ -3,7 +3,7 @@
 <p align="center">
   <img src="images/banner.png" alt="AI Study Notes Generator Banner" width="100%">
 </p>
-<a name="how-it-works"></a>
+
 
 
 ---
@@ -38,6 +38,7 @@ The application saves time, improves revision efficiency, and makes learning mor
 ---
 
 # ⚙️ How It Works
+<a name="how-it-works"></a>
 
 1. User uploads a PDF file.
 2. The application extracts text from the PDF.
