@@ -1,2 +1,20 @@
-# AI-STUDY-NOTES-GENERATOR
-AI Study Notes Generator helps students study smarter by turning PDF notes into concise summaries, key points, quizzes, and flashcards. Upload textbooks or lecture notes and get instant AI-powered study material for faster revision, better understanding, and effective exam preparation.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/9bc673fa-4e39-4750-9876-f3eb0665609e
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
