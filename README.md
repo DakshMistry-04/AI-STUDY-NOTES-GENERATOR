@@ -1,11 +1,4 @@
 # AI Study Notes Generator
-
-<p align="center">
-  <img src="images/banner.png" alt="AI Study Notes Generator Banner" width="100%">
-</p>
-
-
-
 ---
 
 # 📚 Table of Contents
