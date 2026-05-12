@@ -47,22 +47,9 @@ The application saves time, improves revision efficiency, and makes learning mor
 
 # 🔄 Flowchart
 
-```mermaid
-flowchart TD
 
-    A[User Uploads PDF] --> B[PDF Text Extraction]
-    B --> C[AI Processing]
-    
-    C --> D[Generate Summary]
-    C --> E[Generate Key Points]
-    C --> F[Generate Quiz]
-    C --> G[Generate Flashcards]
+<img width="924" height="1136" alt="flowchart" src="https://github.com/user-attachments/assets/752cb2bd-445c-43dd-aa5e-98c7cd13a8bf" />
 
-    D --> H[Display Results]
-    E --> H
-    F --> H
-    G --> H
-```
 
 ---
 
