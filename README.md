@@ -37,8 +37,8 @@ The application saves time, improves revision efficiency, and makes learning mor
 
 ---
 
-# ⚙️ How It Works
-<a name="how-it-works"></a>
+# ⚙️ How It Works <a name="how-it-works"></a>
+
 
 1. User uploads a PDF file.
 2. The application extracts text from the PDF.
